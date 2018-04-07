@@ -1,2 +1,2 @@
-Further examples and descriptions of some of these projects can be found at
+A descriptions of how to use this script can be found at:
 [http://technologyordie.com/cisco-http-cli-data-collection](http://technologyordie.com/cisco-http-cli-data-collection)
